@@ -1,0 +1,58 @@
+# Site settings
+title: Vote Rosenberg
+email: noah@voterosenberg.org
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+skills: "Vote Noah Rosenberg, and ask him about fancy cheeses!"
+meta_author: Rosenberg Noah
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 336699 #18bc9c #80B3FF
+  primary-rgb: "51,102,153" #"128,179,255"
+  secondary: 333333 #FD6E8A
+  secondary-dark: 336699 #A2122F
+
+# Footer settings
+footer:
+  copyright: Noah Rosenberg
+#  location: Location
+  social: Social Media
+#  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url:
+  - title: facebook
+    url:
+  - title: instagram
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+#  - line: 123 Somewhere Rd.
+#  - line: Salt Lake City, UT 84***
+
+# Credits content
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
