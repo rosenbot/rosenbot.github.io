@@ -4,9 +4,5 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: Donec vitae tempor odio. Nullam et nisl lorem. Aenean eget elit vel est vehicula dictum et ut ex. Donec dolor magna, interdum tempor egestas sit amet, fringilla quis erat. Suspendisse potenti. Mauris vitae odio at turpis congue lacinia ac et felis. Proin id facilisis massa, interdum semper arcu. Praesent lacus diam, pharetra id ante eu, sagittis dapibus felis. Sed efficitur nisi nec molestie mollis. In sodales scelerisque massa, et mattis lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 ---

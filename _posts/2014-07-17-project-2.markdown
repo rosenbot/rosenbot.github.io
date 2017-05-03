@@ -4,9 +4,5 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: Curabitur feugiat enim quis posuere condimentum. Sed at nunc molestie, faucibus leo sed, scelerisque erat. Vivamus eget libero pretium, egestas ex eget, rhoncus neque. Duis odio ipsum, rutrum at erat id, posuere finibus leo. Sed tristique leo id sapien blandit facilisis. Fusce turpis mi, rhoncus sit amet imperdiet at, posuere vitae sapien. Mauris neque ex, consectetur id metus ullamcorper, efficitur consequat nunc. Sed molestie ultrices turpis ac vehicula. Cras auctor, mauris sed faucibus auctor, tellus nisi tempor risus, a commodo purus nunc id tellus. Donec rutrum magna et ante feugiat convallis. Donec convallis nec nisl in laoreet. Integer ut enim vel quam venenatis suscipit. Pellentesque lacinia condimentum lectus eget lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. In nec rhoncus quam.
 ---
