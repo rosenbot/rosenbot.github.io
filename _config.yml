@@ -3,7 +3,7 @@ title: Vote Rosenberg
 email: noah@voterosenberg.org
 url: https://example.github.io
 description: "Campaign website for Noah Rosenberg."
-skills: "Vote for Noah Rosenberg because Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+skills: "Every Voice Matters, Every Vote Counts"
 meta_author: Rosenberg Noah
 
 # Google webmaster tools
@@ -39,11 +39,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url:
+    url: https://twitter.com/votebnrosenberg
   - title: facebook
-    url:
+    url: https://www.facebook.com/votebenjaminnoahrosenberg/
   - title: instagram
-    url:
+    url: https://www.instagram.com/vote_rosenberg/
 
 # Postal address (add as many lines as necessary)
 address:

@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-description: Sed a viverra lacus. Duis nec mi augue. Pellentesque vehicula nec orci ac rhoncus. Ut tincidunt et nisl in suscipit. Nullam sit amet neque sit amet ante ornare rutrum. Proin aliquet justo at libero ultrices, rutrum ornare lectus aliquam. Phasellus rhoncus mauris et porttitor eleifend. Praesent volutpat pretium nulla, at vehicula sem euismod fringilla. Vestibulum mattis tincidunt aliquet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus tristique scelerisque libero vitae accumsan. Pellentesque a odio quis tortor eleifend dignissim. Sed imperdiet porttitor fringilla.
----

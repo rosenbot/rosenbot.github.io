@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-description: Donec vitae tempor odio. Nullam et nisl lorem. Aenean eget elit vel est vehicula dictum et ut ex. Donec dolor magna, interdum tempor egestas sit amet, fringilla quis erat. Suspendisse potenti. Mauris vitae odio at turpis congue lacinia ac et felis. Proin id facilisis massa, interdum semper arcu. Praesent lacus diam, pharetra id ante eu, sagittis dapibus felis. Sed efficitur nisi nec molestie mollis. In sodales scelerisque massa, et mattis lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
----
