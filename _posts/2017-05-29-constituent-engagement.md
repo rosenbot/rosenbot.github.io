@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-05-29
-img: megaphone.png
+img: community.svg
 alt: image-alt
 ---
 

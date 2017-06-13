@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-05-29
-img: health.png
+img: health.svg
 alt: image-alt
 ---
 

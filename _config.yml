@@ -1,10 +1,11 @@
 # Site settings
-title: Vote Rosenberg
+title: Benjamin Noah Rosenberg
+short-title: Vote Rosenberg
 email: noah@voterosenberg.org
-url: https://example.github.io
-description: "Campaign website for Noah Rosenberg."
-skills: "Every Voice Matters, Every Vote Counts"
-meta_author: Rosenberg Noah
+url: http://www.voterosenberg.org/
+description: "Campaign website for Benjamin Noah Rosenberg for Salt Lake City District 5 City Council"
+skills: "Salt Lake City Council - District 5"
+meta_author: Benjamin Noah Rosenberg
 
 # Google webmaster tools
 google_verify:
@@ -20,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: votebnrosenberg
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -31,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Noah Rosenberg
+  copyright: Committee to Elect Benjamin Noah Rosenberg
 #  location: Location
   social: Social Media
 #  credits: Credits

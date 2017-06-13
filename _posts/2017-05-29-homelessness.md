@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-05-29
-img: homelessness.png
+img: homelessness.svg
 alt: image-alt
 ---
 
